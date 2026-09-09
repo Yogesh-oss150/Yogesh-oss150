@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="url?id=25" width="100%" />
+  <img src="https://github.com/Yogesh-oss1505" width="100%" />
 </div>
 
 # <div align="center">Hi, I'm Hacker Yogesh 👋</div>
@@ -21,6 +21,16 @@
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/SAP-%230FA3B1.svg?style=for-the-badge&logo=sap&logoColor=white" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogesh-oss150/Yogesh-oss150/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Yogesh-oss150/Yogesh-oss150/output/github-contribution-grid-snake.svg" alt="github-snake">
+  </picture>
 </p>
 
 ---
