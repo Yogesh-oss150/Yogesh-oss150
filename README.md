@@ -23,15 +23,7 @@
 
 ---
 
-### 🐍 `~/terminal/contribution-snake`
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogesh-oss150/Yogesh-oss150/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Yogesh-oss150/Yogesh-oss150/output/github-contribution-grid-snake.svg" alt="github-snake">
-  </picture>
-</p>
 
----
 
 ### 📊 `~/terminal/github-stats`
 <p align="center">
