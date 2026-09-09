@@ -23,24 +23,10 @@
 
 ---
 
-### 🐍 `~/core/contribution-snake`
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogesh-oss150/Yogesh-oss150/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Yogesh-oss150/Yogesh-oss150/output/github-contribution-grid-snake.svg" alt="github-snake">
-  </picture>
-</p>
-
----
-
 ### 📊 `~/core/github-metrics`
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-oss150&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-oss150&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-oss150&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
