@@ -9,29 +9,6 @@
 ---
 
 
-
-
-
-### 📊 `~/terminal/github-stats`
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-oss150&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-oss150&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-oss150&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yogesh-oss150&theme=radical&no-bg=true&margin-w=4&margin-h=4" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yogesh-oss150&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ### 📡 `~/terminal/connections`
 <p align="center">
   <a href="mailto:your-email@gmail.com">
