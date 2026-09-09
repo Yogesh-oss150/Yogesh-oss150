@@ -1,14 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:161b22&height=100&section=header&text=YOGESH%20%signals%20//%20SYSTEM%20ONLINE&fontSize=24&fontColor=00ff66&fontAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,100:00f3ff&height=120&section=header&text=HACKER%20YOGESH&fontSize=40&fontColor=000000&fontWeight=bold&animation=fadeIn" width="100%" />
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=%24+sudo+apt-get+install+success;%24+role+%3A+Frontend+Developer+%26+Security+Geek;%24+stack+%3A+HTML+%7C+JS+%7C+React+%7C+SQL+%7C+SAP" alt="Terminal Typing" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=%24+whoami+%3A+Frontend+Developer+%26+Security+Enthusiast;%24+skills+%3A+HTML+%7C+JS+%7C+SQL+%7C+React+%7C+SAP;%24+status+%3A+Compiling+future+dreams..." alt="Terminal Typing" />
 </p>
 
 ---
 
-### ⚡ `~/core/tech-stack`
+### 💻 `~/terminal/tech-stack`
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -23,10 +23,24 @@
 
 ---
 
-### 📊 `~/core/github-metrics`
+### 🐍 `~/terminal/contribution-snake`
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yogesh-oss150/Yogesh-oss150/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Yogesh-oss150/Yogesh-oss150/output/github-contribution-grid-snake.svg" alt="github-snake">
+  </picture>
+</p>
+
+---
+
+### 📊 `~/terminal/github-stats`
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yogesh-oss150&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yogesh-oss150&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yogesh-oss150&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" />
 </p>
 
 <p align="center">
@@ -39,7 +53,7 @@
 
 ---
 
-### 🌐 `~/core/connections`
+### 📡 `~/terminal/connections`
 <p align="center">
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -59,5 +73,5 @@
 ---
 
 <div align="center">
-  <code>[ROOT ACCESS: SECURE // ALL SYSTEMS OPERATIONAL]</code>
+  <code>[STATUS: SYSTEM ONLINE // ROOT ACCESS GRANTED]</code>
 </div>
