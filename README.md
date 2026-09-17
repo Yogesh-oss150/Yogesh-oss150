@@ -1,9 +1,9 @@
-<div align="center">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Yogesh-oss150&color=00ff66&style=flat-square&label=SECURE+ACCESS+COUNT" alt="Visitor Count" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff66&height=120&section=header&text=YOGESH-OSS150&fontSize=40&fontColor=00ff66&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-```bash
-# --------------------------------------------------
-# SYSTEM: ONLINE | ACCESS LEVEL: ROOT / ADMIN
-# STATUS: EXECUTING CYBERPUNK PROTOCOLS...
-# --------------------------------------------------
+```ascii
+  _____ _____ _____ _____ _____ _     _   _ _____ 
+ |     |  |  |   __|_   _|   __| |   | | | |   __|
+ |  |  |  |  |__   | | | |   __| |__ | |_| |__   |
+ |_____|_____|_____| |_| |_____|_____|_____|_____|
